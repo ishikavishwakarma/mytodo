@@ -68,8 +68,6 @@ function App() {
     setTodos(newTodos)
     saveToLS()
   }
-  
-
   return (
     < >
     <Navbar/> 
